@@ -13,3 +13,6 @@ You can use it like this:
   ```
   
   It's Easy
+  You can find a sample here:
+  [Sending Push Notifications from API | enisnecipoglu.com](http://enisnecipoglu.com/en/onesignal-ile-web-api-uzerinden-bildirim-gonderme/)
+  
